@@ -22,61 +22,31 @@
         </nav>
     </header>
 
-    <main>
-        <section id="home">
-            <h2>Home</h2>
-            <p>Welcome to The Pillars of Occupational Therapy! This website serves as an educational resource about the fundamental principles and practices of occupational therapy for all occupational therapy practitioners.</p>
-        </section>
+Home
 
-        <section id="what-is-ot">
-            <h2>What is Occupational Therapy?</h2>
-            <p>Occupational Therapy (OT) is a healthcare profession that helps people of all ages participate in the activities they want and need to do through the therapeutic use of everyday activities (occupations). Occupational therapy practitioners enable people of all ages to live life to its fullest by helping them promote health, prevent—or live better with—injury, illness, or disability.</p>
-            <p>Common occupational therapy interventions include helping children with disabilities to participate fully in school and social situations, helping people recovering from injury to regain skills, and providing supports for older adults experiencing physical and cognitive changes.</p>
-        </section>
+Welcome to The Pillars of Occupational Therapy! This website serves as an educational resource about the fundamental principles and practices of occupational therapy for all occupational therapy practitioners.
 
-        <section id="core-principles">
-            <h2>Core Principles of Occupational Therapy</h2>
-            <ul>
-                <li><strong>Client-Centered Practice:</strong> Focusing on the client's goals and priorities</li>
-                <li><strong>Holistic Approach:</strong> Considering the whole person, including physical, psychological, and social factors</li>
-                <li><strong>Occupation-Based Practice:</strong> Using meaningful activities as therapeutic tools</li>
-                <li><strong>Evidence-Based Practice:</strong> Using current research to guide treatment decisions</li>
-                <li><strong>Cultural Competence:</strong> Respecting and incorporating cultural differences in practice</li>
-            </ul>
-        </section>
+What is Occupational Therapy?
 
-        <section id="practice-areas">
-            <h2>Practice Areas</h2>
-            <div class="practice-areas">
-                <div class="area">
-                    <h3>Pediatrics</h3>
-                    <p>Working with children to develop skills for play, learning, and daily activities</p>
-                </div>
-                <div class="area">
-                    <h3>Physical Rehabilitation</h3>
-                    <p>Helping adults recover from injuries, surgeries, or medical conditions</p>
-                </div>
-                <div class="area">
-                    <h3>Mental Health</h3>
-                    <p>Supporting individuals with mental health conditions to engage in meaningful activities</p>
-                </div>
-                <div class="area">
-                    <h3>Geriatrics</h3>
-                    <p>Assisting older adults to maintain independence and quality of life</p>
-                </div>
-            </div>
-        </section>
+Occupational Therapy (OT) is a healthcare profession that helps people of all ages participate in the activities they want and need to do through the therapeutic use of everyday activities (occupations). Occupational therapy practitioners enable people of all ages to live life to its fullest by helping them promote health, prevent—or live better with—injury, illness, or disability.
 
-        <section id="contact">
-            <h2>Contact</h2>
-            <p>Have questions about occupational therapy? Feel free to reach out to me at tyhood29@gmail.com!</p>
-        </section>
-    </main>
+Common occupational therapy interventions include helping children with disabilities to participate fully in school and social situations, helping people recovering from injury to regain skills, and providing supports for older adults experiencing physical and cognitive changes.
 
-    <footer>
-        <p>&copy; 2025 The Pillars of Occupational Therapy. All rights reserved.</p>
-    </footer>
+Core Principles of Occupational Therapy
 
-    <script src="script.js"></script>
-</body>
-</html> 
+Client-Centered Practice: Focusing on the client's goals and priorities
+Holistic Approach: Considering the whole person, including physical, psychological, and social factors
+Occupation-Based Practice: Using meaningful activities as therapeutic tools
+Evidence-Based Practice: Using current research to guide treatment decisions
+Cultural Competence: Respecting and incorporating cultural differences in practice
+Practice Areas
+
+Pediatrics Working with children to develop skills for play, learning, and daily activities
+Physical Rehabilitation Helping adults recover from injuries, surgeries, or medical conditions
+Mental Health Supporting individuals with mental health conditions to engage in meaningful activities
+Geriatrics Assisting older adults to maintain independence and quality of life
+Contact
+
+Have questions about occupational therapy? Feel free to reach out to me at tyhood29@gmail.com!
+
+© 2025 The Pillars of Occupational Therapy. All rights reserved.

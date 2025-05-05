@@ -1,1 +1,1 @@
-# New-Pillars-of-Therapy
+# Pillars-of-Therapy

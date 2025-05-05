@@ -12,11 +12,11 @@
         <h1>The Pillars of Occupational Therapy</h1>
         <nav>
             <ul>
-                <li><a href="#[home](url)">Home</a></li>
-                <li><a href="#what-is-ot">What is OT?</a></li>
-                <li><a href="#core-principles">Core Principles</a></li>
-                <li><a href="#practice-areas">Practice Areas</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a >Home</a></li>
+                <li><a >What is OT?</a></li>
+                <li><a >Core Principles</a></li>
+                <li><a >Practice Areas</a></li>
+                <li><a >Contact</a></li>
             </ul>
         </nav>
     </header>

@@ -46,6 +46,6 @@ Mental Health Supporting individuals with mental health conditions to engage in 
 Geriatrics Assisting older adults to maintain independence and quality of life
 Contact
 
-Have questions about occupational therapy? Feel free to reach out to me at tyhood29@gmail.com!
+Have questions about occupational therapy? Feel free to reach out to me at trh10@albion.edu!
 
 © 2025 The Pillars of Occupational Therapy. All rights reserved.

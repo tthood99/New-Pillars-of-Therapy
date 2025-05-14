@@ -48,4 +48,4 @@ Contact
 
 Have questions about occupational therapy? Feel free to reach out to me at by filling out this google form: https://forms.gle/fasNPMcHx1KZ15bS6!
 
-© 2025 The Pillars of Occupational Therapy. All rights reserved.
+2025 The Pillars of Occupational Therapy.

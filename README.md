@@ -15,7 +15,7 @@ This website serves as an educational resource about the fundamental principles 
             <ul>
                 <li><a >Home</a></li>
                 <li><a >What is OT?</a></li>
-                <li><a >History</a>a></li>li>
+                <li><a >History</a></li>
                 <li><a >Core Principles</a></li>
                 <li><a >Practice Areas</a></li>
                 <li><a >Contact</a></li>
